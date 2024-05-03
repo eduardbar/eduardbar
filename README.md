@@ -18,8 +18,6 @@ Tech Stack:<br>Programming languages: Python, JavaScript<br>Web development: HTM
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eduardbar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eduardbar&icon=2&color=9)](https://visitcount.itsvg.in)
