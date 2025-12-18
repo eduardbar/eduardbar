@@ -1,25 +1,82 @@
-# 💫 About Me:
-Tech Stack:<br>Programming languages: Python, JavaScript<br>Web development: HTML, CSS, Node.js<br>Frameworks: Astro<br>Interests: Backend development, API design, Cloud computing<br>Currently Learning:<br>Expanding my skills in backend development with Node.js and Astro<br>Exploring cloud platforms like AWS and Google Cloud<br>Improving my knowledge of software engineering principles and best practices
+### Hey there! 👋
 
+I’m **Eduard Barrera**, a **Software Engineer & Fullstack Developer** based in Colombia.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eduardbar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduardbar&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardbar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I design and build **scalable, maintainable, and high-performance software systems**, with a strong foundation in **Computer Science** and modern **Software Engineering** practices.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eduardbar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eduardbar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+If there’s a complex problem to solve, chances are I’ll break it down, architect a clean solution, and ship it.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eduardbar&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I do
+
+* Build **fullstack applications** end-to-end, from system design to production deployment
+* Design **clean architectures** using SOLID principles and best practices
+* Develop **real-time systems** with WebSockets and distributed architectures
+* Integrate **AI solutions (LLMs)** into real-world products
+* Ensure **code quality** through automated testing and standardization
+* Containerize and standardize environments using **Docker**
+
+---
+
+### Tech Stack
+
+**Languages & Fundamentals**
+
+* JavaScript (ES6+)
+* TypeScript
+* SQL / NoSQL
+* Data Structures & Algorithms
+
+**Frontend**
+
+* React.js
+* Next.js
+* HTML5 / CSS3
+* TailwindCSS
+
+**Backend**
+
+* Node.js
+* Express
+* RESTful APIs
+* WebSockets (real-time communication)
+
+**Architecture & Engineering**
+
+* Clean Architecture
+* SOLID Principles
+* Software Requirements Engineering
+* Distributed Systems
+
+**DevOps & Tooling**
+
+* Docker
+* Git & Git Flow
+* Automated Testing (Jest)
+* CI/CD (concepts & pipelines)
+
+---
+
+### 🎓 Education
+
+**Software Engineering**
+*Uniminuto Colombia* (2023 – 2026, estimated)
+Current focus on:
+
+* Software Architecture
+* Data Structures
+* Algorithms
+---
+
+### 🌍 Languages
+
+* 🇪🇸 Spanish — Native
+* 🇺🇸 English — Full Professional Proficiency
+---
+
+### ⚡ Fun Facts
+
+* I enjoy playing table tennis
+* I care a lot about **code quality and architecture**
+* **Hobbies:** gym, learning, side projects
